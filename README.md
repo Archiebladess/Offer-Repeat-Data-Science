@@ -1,8 +1,6 @@
 # Offer-Repeat
 # Data Science – Customer & Motorcycle Financing Analysis
 
-Repository ini berisi project eksplorasi, pembersihan, dan analisis terhadap dataset customer dan pembiayaan kendaraan bermotor.
-
 ## 📌 Project Overview
 
 Project ini menggunakan dataset yang berisi informasi terkait customer, lokasi, metode pembayaran, tenor pembiayaan, karakteristik kendaraan, harga OTR, uang muka, cicilan, dealer, serta beberapa informasi pendukung lainnya.
